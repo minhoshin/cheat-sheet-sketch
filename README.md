@@ -15,6 +15,24 @@
 
 ## 8 Point 그리드 시스템
 
+## 핀터레스트에서 무드보드 만들어서 관리하기
+- https://www.pinterest.co.kr/ 구글 계정으로 로그인
+- 첫 번째, 마이 페이지 보드 만들기
+- 두 번째, 키워드 검색 후 나오는 이미지를 보드에 추가
+- 세 번째, App Design 또는 UI Design 검색 후 나오는 디자인 레퍼런스를 보드에 추
+
+## 로고 만들기
+- https://thenounproject.com/ 에서 회원가입 후 필요한 svg 를 다운로드
+
+## lorem Ipsum
+- https://www.lipsum.com/
+
+## font
+- Noto Sans CJK KR https://www.google.com/get/noto/
+- Roboto https://fonts.google.com/specimen/Roboto
+- Apple SD Gothic Neo
+- Sanfrancisco https://developer.apple.com/fonts/ SF Pro 다운로
+
 ## keyboard shortcut
 - New Document: command + n
 - 레이어 찾기: command + f
